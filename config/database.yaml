@@ -1,0 +1,6 @@
+database:
+  username: postgres
+  hostname: localhost
+  port: 5432
+  databasename: customs
+  password: Pubg@2019
